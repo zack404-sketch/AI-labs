@@ -204,6 +204,3 @@ AI-labs/
 └── LAB_1.ipynb          # Lab 1 notebook (code, plots, answers, synthesis)
 ```
 
-## 10. Reference
-
-Prasad, A., & Chandra, S. (2024). *PhiUSIIL: A diverse security profile empowered phishing URL detection framework based on similarity index and incremental learning.* Computers & Security.
