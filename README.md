@@ -2,7 +2,7 @@
 
 **Course:** M115 – AI & Intelligent Systems for Cybersecurity (ENSIASD Taroudant, Ibn Zohr University)
 **Instructor:** Prof. Sara EL-ATEIF | **Academic year:** 2026–2027
-**Author:** [Your name]
+**Author:** [IMOURIGUEN Zakaria]
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zack404-sketch/AI-labs/blob/main/LAB_1.ipynb)
 
